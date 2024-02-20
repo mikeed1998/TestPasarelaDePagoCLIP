@@ -1,0 +1,26 @@
+API Key:
+
+c0863dd3-55e8-434e-a39a-a913a817844a
+c0863dd3-55e8-434e-a39a-a913a817844a
+
+Secret Key: 
+
+5b097fb8-5a16-44c1-adf2-ee68eb9abfea
+5b097fb8-5a16-44c1-adf2-ee68eb9abfea
+
+Token de autenticación:
+
+Basic YzA4NjNkZDMtNTVlOC00MzRlLWEzOWEtYTkxM2E4MTc4NDRhOjViMDk3ZmI4LTVhMTYtNDRjMS1hZGYyLWVlNjhlYjlhYmZlYQ==
+Basic YzA4NjNkZDMtNTVlOC00MzRlLWEzOWEtYTkxM2E4MTc4NDRhOjViMDk3ZmI4LTVhMTYtNDRjMS1hZGYyLWVlNjhlYjlhYmZlYQ==
+
+
+
+
+
+https://webhook.site/2c408bb6-7792-4833-8294-66fe59b091b6
+
+2c408bb6-7792-4833-8294-66fe59b091b6@email.webhook.site
+
+whcli forward --token=2c408bb6-7792-4833-8294-66fe59b091b6 --target=https://localhost
+
+
