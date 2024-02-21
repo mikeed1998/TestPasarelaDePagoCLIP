@@ -44,7 +44,9 @@ $response = $client->request('POST', 'https://api-gw.payclip.com/checkout', [
     'headers' => [
         'accept' => 'application/vnd.com.payclip.v2+json',
         'content-type' => 'application/json',
-        'x-api-key' => 'Basic YzA4NjNkZDMtNTVlOC00MzRlLWEzOWEtYTkxM2E4MTc4NDRhOjViMDk3ZmI4LTVhMTYtNDRjMS1hZGYyLWVlNjhlYjlhYmZlYQ==',
+        'x-api-key' => 'Basic YzA4NjNkZDMtN
+        TVlOC00MzRlLWEzOWEtYTkxM2E4MTc4NDRhOjViMDk3ZmI4LT
+        VhMTYtNDRjMS1hZGYyLWVlNjhlYjlhYmZlYQ==',
     ],
 ]);
 
